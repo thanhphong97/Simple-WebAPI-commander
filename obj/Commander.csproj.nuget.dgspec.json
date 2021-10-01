@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\core\\commander\\Commander.csproj": {}
+    "D:\\Project\\Core\\Commander\\Commander.csproj": {}
   },
   "projects": {
-    "D:\\project\\core\\commander\\Commander.csproj": {
+    "D:\\Project\\Core\\Commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\core\\commander\\Commander.csproj",
+        "projectUniqueName": "D:\\Project\\Core\\Commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "D:\\project\\core\\commander\\Commander.csproj",
+        "projectPath": "D:\\Project\\Core\\Commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\core\\commander\\obj\\",
+        "outputPath": "D:\\Project\\Core\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
