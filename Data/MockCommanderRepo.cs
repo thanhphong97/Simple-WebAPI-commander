@@ -7,7 +7,7 @@ namespace Commander.Data
     {
         public void CreateCommand(Command cmd)
         {
-            throw new System.NotImplementedException();
+
         }
 
         public void DeleteCommand(Command cmd)
